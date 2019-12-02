@@ -1,0 +1,4 @@
+566.99             customer001
+600             customer002
+789   customer003
+1000                customer004
